@@ -15,6 +15,9 @@ For this assignment, you'll create some initial plans for your project.
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
 
 
+### Links to Wireframes and Project Tracker
+Links to my GitHub project which include the requirements for this assignment.
+
 [User Stories & Wireframes](https://github.com/mdshaffer8/TeachersAid/blob/master/UserPersonas.md)
 
 [User Persona](https://github.com/mdshaffer8/TeachersAid/blob/master/UserStories.md)
