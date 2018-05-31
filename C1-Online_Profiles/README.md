@@ -13,4 +13,4 @@ For this assignment you will need to upload your resume, and provide links to yo
 [Marianne Shaffer LinkedIn](https://www.linkedin.com/in/marianneshaffer/)
 
 ### Resume
-[Marianne Shaffer Resume](Resume-MarianneShaffer.pdf) 
+[Marianne Shaffer Resume](https://github.com/mdshaffer8/liftoff-assignments/blob/master/Resume-MarianneShaffer.pdf) 
