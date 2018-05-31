@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
 
 ### GitHub
-Provide a link to your GitHub account here.
+[Marianne Shaffer GitHub](https://github.com/mdshaffer8)
 
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Marianne Shaffer LinkedIn](https://www.linkedin.com/in/marianneshaffer/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo.
